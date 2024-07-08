@@ -2,7 +2,7 @@
 
 FROM node:latest
 
-WORKDIR /pedromaironi/src/app
+WORKDIR /marlonDSC/src/app
 
 COPY package.json .
 
